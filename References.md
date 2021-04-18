@@ -1,0 +1,9 @@
+References:
+1.https://stackoverflow.com/questions/13642528/how-to-export-figures-to-files-from-ipython-notebook
+2.https://code.i-harness.com/en/q/19c9fbc
+3.https://stackoverflow.com/questions/34653215/pandas-replacing-values-on-specific-columns
+4.https://github.com/stephanderton/We-Rate-Dogs-Data-Wrangling-Project/blob/master/wrangle_act.ipynb
+5.https://stackoverflow.com/questions/19226488/change-one-value-based-on-another-value-in-pandas
+6.https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.extract.html
+7.https://stackoverflow.com/questions/33365055/attributeerror-can-only-use-dt-accessor-with-datetimelike-values
+8.https://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value
